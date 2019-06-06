@@ -1,5 +1,5 @@
 # Apps Made with Bulma CSS
-Index provided by AppSeed App Generator
+Index provided by [AppSeed App Generator](https://appseed.us/app-generator)
 
 ## What is Bulma CSS
 [Bulma](https://bulma.io/) is a free, open source CSS framework based on [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), designed to be responsive, modular. Javascript Free. 
