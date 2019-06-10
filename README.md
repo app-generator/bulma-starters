@@ -1,15 +1,40 @@
-# Apps Made with Bulma CSS
-Index provided by [AppSeed App Generator](https://appseed.us/app-generator)
+# Apps built with HTML5 Up design
+Index provided by [AppSeed](https://appseed.us/apps/bulma-css)
 
-## What is Bulma CSS
-[Bulma](https://bulma.io/) is a free, open source CSS framework based on [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), designed to be responsive, modular. Javascript Free. 
+## Apps
+A curated list of apps built on top of HTML5 Up design. In case your app is not here, please submit a pull request
 
-## Bulma CSS Apps
-- [Get Bedtime Stories](https://getbedtimestories.com/) - The bedtime story app for families - Made with Bulma Css
-- [ySimplicity](https://ysimplicity.com/) - Web Agency home page
-- [BulmaPlay](https://appseed.us/apps/bulma-css/bulmaplay) - open-source app coded in [JAMstack](https://appseed.us/apps/bulma-css/bulmaplay) and [Flask](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css)
-- [BulmaLanding](https://appseed.us/apps/bulma-css/bulmaplay) - open-source single page app coded in JAMstack
+<br />
 
+### [BulmaPlay](https://appseed.us/apps/bulma-css/bulmaplay)
 ---
-Happy Coding! 
+Open-source app built on top of Bulma CSS in JAMstack pattern
 
+![BulmaPlay](https://raw.githubusercontent.com/app-generator/static/master/bulmaplay/jamstack-bulmaplay-made-with-bulma-css-sm.jpg)
+
+<br />
+
+### [BulmaLanding](https://appseed.us/apps/bulma-css/bulmalanding)
+---
+Open-source app built on top of Bulma CSS in JAMstack pattern
+
+![BulmaLanding](https://raw.githubusercontent.com/app-generator/static/master/bulmalanding/jamstack-bulmalanding-made-with-bulma-css-sm.jpg)
+
+<br />
+
+### [Flask BulmaPlay](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css)
+---
+Open-source app, designed by [HTML5 Up](https://html5up.net/landed) in JAMstack pattern.
+
+![Flask BulmaPlay](https://raw.githubusercontent.com/app-generator/static/master/flask-bulmaplay/flask-bulmaplay-made-with-bulma-css-sm.jpg)
+
+<br />
+
+## Related Resources
+ - [Bulma CSS](https://bulma.io/) - the official website
+ - [Bulma Docs](https://bulma.io/documentation/) 
+ - [Apps built with Bulma](https://docs.appseed.us/apps/bulma-css/)
+ 
+ --- 
+ Happy Coding! 
+ 
