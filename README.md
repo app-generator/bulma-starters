@@ -2,7 +2,7 @@
 Index provided by [AppSeed](https://appseed.us/apps/bulma-css)
 
 ## Apps
-A curated list of apps built on top of HTML5 Up design. In case your app is not here, please submit a pull request
+A curated list of apps built on top of Bulma CSS Framework. 
 
 <br />
 
