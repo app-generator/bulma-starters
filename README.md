@@ -1,4 +1,4 @@
-# Apps built with HTML5 Up design
+# Apps built with [Bulma CSS](https://bulma.io/)
 Index provided by [AppSeed](https://appseed.us/apps/bulma-css)
 
 ## Apps
