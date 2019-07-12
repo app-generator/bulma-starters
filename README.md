@@ -1,40 +1,39 @@
-# Apps built with [Bulma CSS](https://bulma.io/)
-Index provided by [AppSeed](https://appseed.us/apps/bulma-css)
+# [Bulma CSS](https://appseed.us/apps/bulma-css) 
 
-## Apps
-A curated list of apps built on top of Bulma CSS Framework. 
+Open-source apps made with [Bulma CSS](https://bulma.io/) the CSS framework based on Flexbox.
 
 <br />
 
-### [BulmaPlay](https://appseed.us/apps/bulma-css/bulmaplay)
----
-Open-source app built on top of Bulma CSS in JAMstack pattern
-
-![BulmaPlay](https://raw.githubusercontent.com/app-generator/static/master/bulmaplay/jamstack-bulmaplay-made-with-bulma-css-sm.jpg)
+![Bulma CSS Apps - Gif animated presentation.](https://github.com/app-generator/static/blob/master/products/bulma-css-flask-bulmaplay-intro.gif?raw=true)
 
 <br />
 
-### [BulmaLanding](https://appseed.us/apps/bulma-css/bulmalanding)
----
-Open-source app built on top of Bulma CSS in JAMstack pattern
+## [Bulma CSS FlaskPlay](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css)
 
-![BulmaLanding](https://raw.githubusercontent.com/app-generator/static/master/bulmalanding/jamstack-bulmalanding-made-with-bulma-css-sm.jpg)
+[Bulma CSS FlaskPlay](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css) is an open-source app styled with **Bulma CSS** and coded in **Flask**. 
 
-<br />
-
-### [Flask BulmaPlay](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css)
----
-Open-source app, designed by [HTML5 Up](https://html5up.net/landed) in JAMstack pattern.
-
-![Flask BulmaPlay](https://raw.githubusercontent.com/app-generator/static/master/flask-bulmaplay/flask-bulmaplay-made-with-bulma-css-sm.jpg)
+![Bulma CSS FlaskPlay - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/flask-bulmaplay-made-with-bulma-css.jpg?raw=true)
 
 <br />
+
+## [Bulma CSS Landing](https://appseed.us/apps/bulma-css/bulmalanding)
+
+[Bulma CSS Landing](https://appseed.us/apps/bulma-css/bulmalanding) is an open-source app styled with **Bulma CSS** and coded in **JAMstack** architecture. 
+
+![Bulma CSS Landing - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/jamstack-bulmalanding-made-with-bulma-css.jpg?raw=true)
+
+## [Bulma CSS BulmaPlay](https://appseed.us/apps/bulma-css/bulmaplay)
+
+[Bulma CSS BulmaPlay](https://appseed.us/apps/bulma-css/bulmaplay) is an open-source app styled with **Bulma CSS** and coded in **JAMstack** architecture.
+
+![Bulma CSS BulmaPlay - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/jamstack-bulmaplay-made-with-bulma-css.jpg?raw=true)
 
 ## Related Resources
- - [Bulma CSS](https://bulma.io/) - the official website
- - [Bulma Docs](https://bulma.io/documentation/) 
- - [Apps built with Bulma](https://docs.appseed.us/apps/bulma-css/)
- 
- --- 
- Happy Coding! 
- 
+ - [Bulma CSS](https://bulma.io/)
+ - [Flask](https://palletsprojects.com/p/flask/)
+ - [JAMstack](https://jamstack.org/)
+
+<br />
+
+--- 
+Index provided by [AppSeed](https://appseed.us/apps/bulma-css)
