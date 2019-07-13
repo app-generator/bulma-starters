@@ -36,4 +36,4 @@ Open-source apps made with [Bulma CSS](https://bulma.io/) the CSS framework base
 <br />
 
 --- 
-Index provided by [AppSeed](https://appseed.us/apps/bulma-css)
+Apps made with [Bulma CSS](https://appseed.us/apps/bulma-css) provided by **AppSeed**
