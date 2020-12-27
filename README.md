@@ -7,8 +7,20 @@ A short introduction to **Bulma CSS** and resources.
 
 <br />
 
+> Getting started
+
+Visualize the starter (index.html) provided using a simple server:
+
+- Php:  `php -S localhost:9999`
+- Node.js: `npm i -g serve && serve .`
+- Python: `python -m SimpleHTTPServer`
+- Golang: `caddy`
+
+<br />
+
 **Bulma Starters**
 
+- (Free) [Index.html](https://starter.bulma-css.com/) - saved in the root of the project 
 - (Free) [Bulma Fresh](https://github.com/cssninjaStudio/fresh) - one page template by [CSS Ninja](https://cssninja.io/)
 - (Free) [Bulma Krypton](https://github.com/cssninjaStudio/krypton) - UI Kit provided by [CSS Ninja](https://cssninja.io/) 
 - (Free) [FlaskPlay](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css) - simple Flask starter styled with Bulma
@@ -32,6 +44,30 @@ A short introduction to **Bulma CSS** and resources.
 
 <br />
 
+## [Bulma Fresh](https://github.com/cssninjaStudio/fresh)
+
+Fresh is a one-page landing page starter built by Css Ninja Studio. Fresh is licensed under the MIT license.
+
+- [Bulma Fresh](https://github.com/cssninjaStudio/fresh) - source code
+- [Bulma Fresh Demo](https://cssninjastudio.github.io/fresh/) - LIVE Deployment
+
+<br />
+
+![Bulma CSS - Fresh, one-page template by Css Ninja.](https://raw.githubusercontent.com/app-generator/bulma-css/master/media/fresh-screen-product.png)
+
+<br />
+
+## [Bulma Krypton](https://github.com/cssninjaStudio/krypton)
+
+Krypton is a one-page landing page starter built by Css Ninja Studio. Krypton is licensed under the MIT license.
+
+- [Bulma Krypton](https://github.com/cssninjaStudio/krypton) - source code
+
+<br />
+
+![Bulma CSS - Krypton, one-page template by Css Ninja.](https://raw.githubusercontent.com/app-generator/bulma-css/master/media/krypton-intro.gif)
+
+<br />
 
 --- 
 [Bulma CSS](https://appseed.us/apps/bulma-css) resources - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
