@@ -33,6 +33,7 @@ Visualize the starter (index.html) provided using a simple server:
 
 **Bulma Tutorials** 
 
+- [Bulma CSS - A curated list with resources](https://blog.appseed.us/bulma-css-curated-list-with-resources/)
 - [Get to Know Bulma](https://scotch.io/bar-talk/get-to-know-bulma-my-current-favorite-css-framework)
 - [Learn Bulma CSS in 5 minutes](https://www.freecodecamp.org/news/learn-bulma-in-5-minutes-ec5188c53e83/)
 - [Bulma CSS - Tutorial for beginners](https://dev.to/sm0ke/bulma-css-a-tutorial-for-beginners-af2)
