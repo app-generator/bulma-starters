@@ -1,4 +1,4 @@
-# [Bulma CSS](https://appseed.us/apps/bulma-css) 
+# [Bulma CSS](https://bulma-css.com/)
 
 A short introduction to **Bulma CSS** and resources.
 
@@ -20,9 +20,9 @@ Visualize the starter (index.html) provided using a simple server:
 
 **Bulma Starters**
 
-- (Free) [Index.html](https://starter.bulma-css.com/) - saved in the root of the project 
-- (Free) [Bulma Fresh](https://github.com/cssninjaStudio/fresh) - one page template by [CSS Ninja](https://cssninja.io/)
-- (Free) [Bulma Krypton](https://github.com/cssninjaStudio/krypton) - UI Kit provided by [CSS Ninja](https://cssninja.io/) 
+- (Free) [Bulma Starter](https://bulma-css.com/starter/) - one-page Bulma Starter 
+- (Free) [Bulma Fresh](https://bulma-css.com/fresh/) - one page Bulma template 
+- (Free) [Bulma Krypton](https://bulma-css.com/krypton/) - UI Kit provided by [CSS Ninja](https://cssninja.io/) 
 - (Free) [FlaskPlay](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css) - simple Flask starter styled with Bulma
 - (Free) [Bulma Components](https://github.com/bulma-css-templates/bulma-components) - open-source collection 
 - (Paid) [DashKit PRO](https://cssninja.io/product/dashkit) - admin dashboard styled in Bulma
@@ -41,34 +41,33 @@ Visualize the starter (index.html) provided using a simple server:
 
 <br />
 
-![Bulma CSS - The official framework banner](https://raw.githubusercontent.com/app-generator/bulma-css/master/media/bulma-banner.png)
-
-<br />
-
-## [Bulma Fresh](https://github.com/cssninjaStudio/fresh)
+## [Bulma Fresh](https://bulma-css.com/fresh/)
 
 Fresh is a one-page landing page starter built by Css Ninja Studio. Fresh is licensed under the MIT license.
 
-- [Bulma Fresh](https://github.com/cssninjaStudio/fresh) - source code
-- [Bulma Fresh Demo](https://cssninjastudio.github.io/fresh/) - LIVE Deployment
+<br />
+
+- [Bulma Fresh - DEMO](https://bulma-css-fresh.bulma-css.com/) - LIVE deploy
 
 <br />
 
-![Bulma CSS - Fresh, one-page template by Css Ninja.](https://raw.githubusercontent.com/app-generator/bulma-css/master/media/fresh-screen-product.png)
+![Bulma CSS - Fresh is a one page landing page.](https://raw.githubusercontent.com/app-generator/bulma-css-fresh/master/media/bulma-css-fresh-screen.png)
 
 <br />
 
-## [Bulma Krypton](https://github.com/cssninjaStudio/krypton)
+## [Bulma Krypton](https://bulma-css.com/krypton/)
 
 Krypton is a one-page landing page starter built by Css Ninja Studio. Krypton is licensed under the MIT license.
 
-- [Bulma Krypton](https://github.com/cssninjaStudio/krypton) - source code
+<br />
+
+- [Bulma Krypton - DEMO](https://bulma-css-krypton.bulma-css.com/) - LIVE deploy
 
 <br />
 
-![Bulma CSS - Krypton, one-page template by Css Ninja.](https://raw.githubusercontent.com/app-generator/bulma-css/master/media/krypton-intro.gif)
+![Bulma CSS - Krypton is a one page landing page.](https://raw.githubusercontent.com/app-generator/bulma-css-krypton/master/media/bulma-css-krypton-screen.png)
 
 <br />
 
 --- 
-[Bulma CSS](https://appseed.us/apps/bulma-css) resources - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
+[Bulma CSS](https://bulma-css.com/) resources - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
